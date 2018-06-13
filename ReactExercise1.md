@@ -15,4 +15,4 @@ People will be able to to go to your site and add ratings for a restaurant found
 
 ### Next Level +++
 
-Want to step it up? Add the ability for users to add a text review to a restaurant. There are tons of many ways to go about this in React, something that you might want to familirize yourself with. Think of managing forms, or input, or even submitting a text field on a button click.
+Add the ability for users to add a text review to a restaurant. There are many ways to go about this in React, something that you might want to familirize yourself with. Think of managing forms, controlled componenets, input, or even submitting a text field on a button click.
