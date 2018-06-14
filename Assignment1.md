@@ -35,3 +35,5 @@ See [Assignment #1 rubric](https://github.com/jniziol/Introduction-to-React/blob
 - Users should be able to remove items from the cart.
 
 - If the cart has no items in it, the cart page should display a message that your cart is empty.
+
+- You should implement a back button on the shopping cart page that allows users to go back to the main page where they can add more items.
