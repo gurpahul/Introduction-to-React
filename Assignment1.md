@@ -6,11 +6,11 @@ You should submit an archive (`.zip` file) for this assignment. This archive sho
 
 The `.zip` file should contain your first and last name.
 
-Your `.zip` file containing your solution files should be uploaded to the [Assignment #1 Dropbox link](https://www.dropbox.com/request/aXNuQtpMRdml5XuJ1Cja), no later than 3:30 PM, Friday, June 14th, 2018.
+Your `.zip` file containing your solution files should be uploaded to the [Assignment #1 Dropbox link](https://www.dropbox.com/request/wVyMJoEPGdXYiGgVXGfi), no later than 3:30 PM, Friday, June 14th, 2018.
 
 You can NOT submit more than 1 file. 
 
-See [Assignment #1 rubric](https://github.com/jniziol/JS-Design-Patterns-Front-End-Frameworks/blob/master/Assignment%202%20-%20Rubric%20-%20Rubric%20.pdf) for the evaluation criteria.
+See [Assignment #1 rubric](https://github.com/jniziol/Introduction-to-React/blob/master/Assignment%20%231%20-%20Rubric.pdf) for the evaluation criteria.
 
 ## Shopping Cart
 
