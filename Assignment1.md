@@ -26,7 +26,7 @@ See [Assignment #1 rubric](https://github.com/jniziol/Introduction-to-React/blob
 
 - When users add items to the cart, the cart should display the amount of items in the cart.
 
-- On your main page, you should have a list of available items that you can add to your cart, AND you should also have a small, clickable cart icon(image, link, anything) that the *TOTAL* amount of items in your shopping cart, beside it.
+- On your main page, you should have a list of available items that you can add to your cart, AND you should also have a small, clickable cart icon-like thingy(image, link, text) that displays the *TOTAL* amount of items in your shopping cart, beside it.
 
 - Your cart should be clickable. On clicking the cart, it will drive users to `/cart` page that will display all info and items related to your cart. You should use React Router to accomplish this.
 
