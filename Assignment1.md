@@ -39,3 +39,7 @@ See [Assignment #1 rubric](https://github.com/jniziol/Introduction-to-React/blob
 - You should implement a back button on the shopping cart page that allows users to go back to the main page where they can add more items.
 
 - Everything should be done using react componenents. Your HTML should only contain a `root` element.
+
+### TIP
+
+- You should NEVER modify the state of a component. This means using the `push` method to add a new item to your cart probably won't work. You should consider using a function like `concat` instead.
