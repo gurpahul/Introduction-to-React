@@ -9,7 +9,7 @@ Your form to create your users should be at the top of your page and should incl
 - Position (Select)
 - A submit button.
 
-Start with 3 default users in the system, displayed in a list.
+Display a list of users added to your system.
 
 When the form is submitted, create a new a new user and add it to the list.
 
