@@ -13,3 +13,5 @@
 [Controlled Components Exercise](https://github.com/jniziol/Introduction-to-React/blob/master/ControlledComponentsExercise.md)
 
 [React Forms Documentation](https://reactjs.org/docs/forms.html)
+
+[Controlled Component Code Sample](https://github.com/jniziol/controlledComponentSample)
