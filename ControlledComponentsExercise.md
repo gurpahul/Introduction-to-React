@@ -7,7 +7,6 @@ Your form to create your users should be at the top of your page and should incl
 - Name
 - Email Address
 - Position (Select)
-- Favorites Foods (Checkboxes)
 - A submit button.
 
 Start with 3 default users in the system, displayed in a list.
