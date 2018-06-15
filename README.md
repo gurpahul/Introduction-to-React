@@ -15,3 +15,5 @@
 [React Forms Documentation](https://reactjs.org/docs/forms.html)
 
 [Controlled Component Code Sample](https://github.com/jniziol/controlledComponentSample)
+
+[Assignment #1 Solution](https://github.com/jniziol/shoppingCart)
