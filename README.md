@@ -17,3 +17,7 @@
 [Controlled Component Code Sample](https://github.com/jniziol/controlledComponentSample)
 
 [Assignment #1 Solution](https://github.com/jniziol/shoppingCart)
+
+## June 18th, 2018
+
+[Assignment #2](https://github.com/jniziol/Introduction-to-React/blob/master/assignment2.md)
