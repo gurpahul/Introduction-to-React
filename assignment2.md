@@ -14,7 +14,7 @@ See [Assignment #2 rubric](https://github.com/jniziol/Introduction-to-React/blob
 
 ## Picture Search
 
-Using the Unsplash API and React, you will write an application that allows users to search the unsplash API for photos.
+Using the Unsplash API and React, you will write an application that allows users to search the unsplash API for photos and display the results.
 
 ### Requirements
 
