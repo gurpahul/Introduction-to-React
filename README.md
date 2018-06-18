@@ -20,4 +20,4 @@
 
 ## June 18th, 2018
 
-[Assignment #2](https://github.com/jniziol/Introduction-to-React/blob/master/assignment2.md)
+[To Do Exercise](https://github.com/jniziol/Introduction-to-React/blob/master/ToDoExercise.md)
