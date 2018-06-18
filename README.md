@@ -21,3 +21,5 @@
 ## June 18th, 2018
 
 [To Do Exercise](https://github.com/jniziol/Introduction-to-React/blob/master/ToDoExercise.md)
+
+[Controlled Component Exercise Solution](https://github.com/jniziol/ControlledFormsExercise)
