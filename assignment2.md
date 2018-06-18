@@ -25,5 +25,4 @@ Using the Unsplash API and React, you will write an application that allows user
 - Users can select what type of orientation of photo they would like (landscape, portrait, and squarish or all [`all` is actually default, so consider this when your writing your app])
 - Once a user hits search, the app will query the unsplash API and return photos that match the search criteria.
 - When your app loads up, it will grab and display a random photo as a small avatar in the top left corner of your app. It should use this [endpoint](https://unsplash.com/documentation#get-a-random-photo)
-- After searching, your app should display a message above the images - "Your search for `the users search query here` returned XX results."
 
