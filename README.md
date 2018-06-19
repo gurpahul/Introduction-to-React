@@ -25,3 +25,7 @@
 [Controlled Component Exercise Solution](https://github.com/jniziol/ControlledFormsExercise)
 
 [Assignment #2](https://github.com/jniziol/Introduction-to-React/blob/master/assignment2.md)
+
+## June 19th, 2018
+
+[Todo App Solution](https://github.com/jniziol/ReactToDoSolution)
