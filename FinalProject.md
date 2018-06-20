@@ -16,6 +16,8 @@ Late submissions will be penalized 10% per day.
 
 ## Requirements
 
+Fork and Clone Udacity's [Starter Repository](https://github.com/udacity/reactnd-project-myreads-starter)
+
 See [Udacity's Final Project Rubric](https://review.udacity.com/#!/rubrics/918/view) for detailed project requirements. 
 
 You will require you README for this project. Your README should be customized to your project and include details of the project, how to install and use it and include at least 1 screenshot.
